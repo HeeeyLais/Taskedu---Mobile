@@ -1,4 +1,4 @@
-import { CustomInput } from '@/components/customInput';
+import { CustomInput } from '@/components/CustomInput';
 import { useRouter } from 'expo-router';
 import { useState } from 'react';
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
